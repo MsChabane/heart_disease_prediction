@@ -1,0 +1,20 @@
+{
+    "objective": "binary:logistic",
+    "grow_policy": "depthwise",
+    "booster": "gbtree",
+    "colsample_bylevel": null,
+    "colsample_bynode": null,
+    "colsample_bytree": 1,
+    "early_stopping_rounds": null,
+    "gamma": 0.4,
+    "learning_rate": 0.01,
+    "max_depth": 12,
+    "min_child_weight": null,
+    "n_estimators": 159,
+    "random_state": 0,
+    "reg_alpha": 0.9,
+    "reg_lambda": null,
+    "sampling_method": null,
+    "scale_pos_weight": null,
+    "subsample": null
+}
